@@ -5,7 +5,7 @@
 
 <div class="formcontent">
 <form action="validating.php" method="get">
-Contry: <input type="text" name="country">
+Country: <input type="text" name="country">
 <input type="submit" value="Search here">
 
 </form> 
